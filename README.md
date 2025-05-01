@@ -9,21 +9,22 @@
 ---
 
 ### 🔧 Tech Stack
-- 💻 **Languages:** Python, Dart, Java, Golang, SQL, HTML/CSS, PHP
+- 💻 **Languages:** Python, Dart, Java, Golang, SQL, C, HTML/CSS, PHP
 - 📱 **Mobile:** Flutter, Android (Java/XML)
-- 🌐 **Backend:** Go, Node.js, MySQL
+- 🌐 **Backend:** Go, PHP, MySQL
 - ⚡ **AI/ML:** LSTM, Scikit-learn, TensorFlow
 - 📊 **Tools:** Streamlit, Figma, Firebase, Git, Arduino, Cisco Packet Tracer
 
 ---
 
 
-### ✨ I Build With Purpose And Bring Ideas To Life With Design ✨
-> “Tech isn't just about code – it's about solving real-world problems.”
+### 🎯 I Design With Purpose & Code With Impact
+> “Great design isn't just how it looks — it's how it works to solve real problems.”
 
-- 💡 Designing tools that empower students, families, and businesses  
-- 📚 Studying Distributed Systems at USTHB  
-- 💬 Spreading awareness on sustainability & digital transformation
+- 🧠 Turning complex ideas into intuitive digital experiences
+- 🎓 Master's student in Distributed Systems at USTHB  
+- 🌍 Advocating for sustainability and tech for social good
+- 💼 Crafting tools for students, families, and forward-thinking businesses
 
 ---
 

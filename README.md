@@ -37,6 +37,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&no-bg=true" />
-</p>
+

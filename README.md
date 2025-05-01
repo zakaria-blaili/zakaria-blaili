@@ -29,14 +29,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakaria-blaili&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-blaili&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-blaili)  

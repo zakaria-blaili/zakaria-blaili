@@ -3,12 +3,9 @@
 <h3 align="center">🚀 Master’s Student | 🧠 Ai & IoT Enthusiast | 📱 Mobile Developer | 🎨 UI/UX Designer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Turning+ideas+into+impactful+apps;Flutter+%7C+Golang+%7C+ML+%7C+IoT+%7C+Design;Let’s+build+for+a+better+future!&font=Fira+Code&pause=1000&color=58A6FF&center=true" alt="Tech Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Turning+ideas+into+impactful+apps;Flutter+%7C+Golang+%7C+ML+%7C+IoT+%7C+UI%2FUX;Let%E2%80%99s+build+for+a+better+future!;Designing+delightful+user+experiences;Crafting+clean+modern+interfaces;Always+learning%2C+always+creating!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Designing+delightful+user+experiences;Crafting+clean+and+modern+interfaces;Always+learning,+always+creating!" alt="Design Typing SVG" />
-</p>
 ---
 
 ### 🔧 Tech Stack

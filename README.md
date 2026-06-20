@@ -1,4 +1,4 @@
-- 🎯 [Portfolio Website]([#](https://portfolio-blaili.vercel.app/))
+- 🎯 [Portfolio Website](https://portfolio-blaili.vercel.app/)
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">🚀 Master’s Student | 🧠 AI & IoT | 📱 Mobile & Fullstack Developer | 🎨 UI/UX Designer</h3>
 
